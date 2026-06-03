@@ -1,46 +1,27 @@
-### Vision is the Compass. Innovation is the Path. 🧭
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:14b8a6&text=%C3%96mer%20Batuhan%20Tando%C4%9Fan&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Founder%20%26%20CEO%20of%20Noderan&descSize=18&descAlignY=58" alt="Ömer Batuhan Tandoğan" /> </div> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=900&color=14B8A6&center=true&vCenter=true&width=760&lines=AI+agents+%7C+No-code+automation+%7C+SaaS;Building+products+from+idea+to+launch;Speed%2C+ownership%2C+discipline%2C+execution" alt="Typing SVG" /> </a> </div> <div align="center"> <a href="https://omerbatutandogan.com"><img src="https://img.shields.io/badge/Website-omerbatutandogan.com-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a> <a href="https://noderan.com"><img src="https://img.shields.io/badge/Noderan-AI%20Automation-2563eb?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Noderan" /></a> <a href="https://www.linkedin.com/in/omerbatutandogan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://x.com/omerbatutandgn"><img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> </div>
+Founder, builder, operator.
+Founder & CEO of Noderan, building AI agents, no-code automation systems, and practical products that turn messy workflows into usable software.
 
-> "The future isn't predicted—it’s compiled."
+I am a Bilkent CTIS graduate based in Ankara, Türkiye. My work sits around AI agents, LLM products, automation, technical SEO, product development, and growth systems. I like owning the full path from idea to launch: product thinking, engineering, distribution, and the operational details in between.
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Architecting+the+Future+with+AI+%F0%9F%9A%80;Building+Autonomous+Workflows+%26+Agents+%F0%9F%A4%96;Vision+%3E+Execution+%3E+Innovation+%F0%9F%A7%AD;Initializing+Neural+Networks...;Accessing+Global+Data+Streams...;System+Status%3A+OPTIMIZED+FOR+GROWTH+%F0%9F%93%88" alt="Typing SVG" /></a>
-</div>
+What I Am Building
+Noderan — an AI-powered no-code automation platform for building workflows and deploying AI agents without code.
+Automation systems that connect tools, reduce manual work, and make teams faster.
+AI products with clear business value instead of demos that only look good for a minute.
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=omerbatutandogan&theme=react-dark&hide_border=true&bg_color=0f172a&color=14b8a6&line=2563eb&point=ffffff&area=true&area_color=14b8a6" alt="GitHub activity graph" /> </div>
+How I Work
+I care about speed, but not at the cost of structural quality.
+I like direct communication, clear ownership, and products that actually ship.
+I enjoy building systems end-to-end: strategy, product, engineering, growth, and execution.
+I am drawn to entrepreneurship because it forces real feedback, real stakes, and real responsibility.
+Beyond Work
+Sport has been part of my life since childhood. I played football for years, trained seriously in fitness and bodybuilding, and still keep sports close through the gym, football, swimming, hiking, and running.
 
-We are witnessing a shift where AI is not just a tool, but the **operating system** of a new reality.
+Outside work and sport, I enjoy travel, sea, music, events, good dinners, spontaneous plans, and creating memories with people around me. I also follow Atatürk's worldview closely and try to keep that sense of discipline, independence, and progress in how I live and work.
 
-I don't just watch this transformation; I **architect** it. By aligning strategic vision with relentless technical execution, I bridge the gap between abstract ideas and scalable, automated realities.
+Areas I Care About
+<p> <img src="https://img.shields.io/badge/AI%20Agents-0f172a?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" /> <img src="https://img.shields.io/badge/LLM%20Apps-2563eb?style=flat-square&logo=ollama&logoColor=white" alt="LLM Apps" /> <img src="https://img.shields.io/badge/Automation-14b8a6?style=flat-square&logo=n8n&logoColor=white" alt="Automation" /> <img src="https://img.shields.io/badge/SaaS-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="SaaS" /> <img src="https://img.shields.io/badge/Technical%20SEO-2563eb?style=flat-square&logo=googlesearchconsole&logoColor=white" alt="Technical SEO" /> <img src="https://img.shields.io/badge/Product%20Growth-14b8a6?style=flat-square&logo=producthunt&logoColor=white" alt="Product Growth" /> <img src="https://img.shields.io/badge/Entrepreneurship-0f172a?style=flat-square&logo=rocket&logoColor=white" alt="Entrepreneurship" /> <img src="https://img.shields.io/badge/Fitness%20%26%20Performance-2563eb?style=flat-square&logo=strava&logoColor=white" alt="Fitness and Performance" /> </p> <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=omerbatutandogan&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=omerbatutandogan&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </div>
+Links
+Website · Noderan · LinkedIn · X · Medium · Substack · Instagram
 
----
-
-### 🧠 The Strategic Infrastructure & Arsenal
-
-My approach fuses engineering with market intelligence. I don't just build products; I build **growth engines**.
-
-| The Engine (Execution & Dev) ⚙️ | The Brain (Product & SEO Strategy) 🚀 |
-| :--- | :--- |
-| **Workflow Orchestration:** Architecting self-healing, complex automations that eliminate manual bottlenecks. (e.g., n8n, Custom Scripts) | **Product-Led Growth:** Designing products with built-in viral loops and user-centric value propositions from Day 1. |
-| **Full-Stack AI Dev:** Building micro-SaaS solutions and internal tools focused on rapid problem-solving. | **Technical & Programmatic SEO:** Leveraging AI to dominate search engines, automate content scale, and ensure **visibility** for every line of code written. |
-
-<br>
-
-#### 🛠️ The High-Impact Stack (The Raw Power)
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs_(GenAI)-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Product_Strategy-FF4500?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO_&_Growth-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-</div>
-
----
-
-### 🌐 Command Center: Connect & Collaborate
-
-[<img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/omerbatutandogan/)
-[<img src="https://img.shields.io/badge/X-Join_the_Dialogue-black?style=for-the-badge&logo=x" />](https://x.com/omerbatutandgn)
-[<img src="https://img.shields.io/badge/YouTube-Watch_the_Vision-red?style=for-the-badge&logo=youtube" />](https://www.youtube.com/@omerbatutandogan)
-[<img src="https://img.shields.io/badge/Medium-Read_Deep_Dives-12100E?style=for-the-badge&logo=medium" />](https://omerbatutandogan.medium.com/)
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:14b8a6,50:2563eb,100:0f172a&section=footer" alt="" /> </div>
