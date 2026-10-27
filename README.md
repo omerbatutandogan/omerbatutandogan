@@ -19,19 +19,75 @@ I am a Bilkent University graduate in Computer Technology & Information Systems.
 
 ## Stack
 
+**AI & agents**
+
+<div>
+  <img src="https://img.shields.io/badge/Anthropic-111111?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude API" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-2f2f2f?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/OpenAI-3f3f46?style=for-the-badge" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/LangChain-18181b?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-27272a?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/PyTorch-52525b?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</div>
+
+**Languages**
+
 <div>
   <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-2f2f2f?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-3f3f46?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-18181b?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-27272a?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/n8n-52525b?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/PyTorch-2f2f2f?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-3f3f46?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-18181b?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Cloudflare-27272a?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/JavaScript-2f2f2f?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3f3f46?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-18181b?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-27272a?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-52525b?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# / .NET" />
+  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C%2B%2B-2f2f2f?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</div>
+
+**Web & backend**
+
+<div>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-2f2f2f?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-3f3f46?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-18181b?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Django-27272a?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Astro-52525b?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</div>
+
+**Data & cloud**
+
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-2f2f2f?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-3f3f46?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Redis-18181b?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-27272a?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/AWS-52525b?style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/Cloudflare-111111?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Vercel-2f2f2f?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</div>
+
+**Tooling & delivery**
+
+<div>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2f2f2f?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-3f3f46?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vitest-18181b?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/pytest-27272a?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Claude%20Code-52525b?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+</div>
+
+**Growth & analytics**
+
+<div>
+  <img src="https://img.shields.io/badge/Google%20Analytics-111111?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/Search%20Console-2f2f2f?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Google Search Console" />
+  <img src="https://img.shields.io/badge/Tag%20Manager-3f3f46?style=for-the-badge&logo=googletagmanager&logoColor=white" alt="Google Tag Manager" />
+  <img src="https://img.shields.io/badge/Webflow-18181b?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" />
 </div>
 
 ## Writing
