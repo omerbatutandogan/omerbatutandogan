@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="820" src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=28&duration=2600&pause=700&color=2F2F2F&center=true&vCenter=true&width=820&height=56&lines=Building+AI+agents+for+real+workflows;Making+automation+usable+without+code;Product%2C+growth%2C+engineering%2C+execution" alt="Building AI agents for real workflows. Making automation usable without code. Product, growth, engineering, execution." />
+  <img width="820" src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=28&duration=2600&pause=700&color=2F2F2F&center=true&vCenter=true&width=820&height=56&lines=Building+AI+agents+for+real+workflows;Making+automation+usable+without+code;Product%2C+growth%2C+engineering%2C+execution" alt="Ömer Batuhan Tandoğan (Omer Batuhan Tandogan): building AI agents for real workflows, making automation usable without code. Product, growth, engineering, execution." />
 </div>
 
 <div align="center">
@@ -11,9 +11,9 @@
 
 <br />
 
-## AI Agents & Automation
+## Ömer Batuhan Tandoğan
 
-I build AI agents and no-code automation products, working across workflow automation, product development, and technical SEO. Based in Ankara, Türkiye.
+**AI Agents & Automation.** I build AI agents and no-code automation products, working across workflow automation, product development, and technical SEO. Based in Ankara, Türkiye.
 
 I am a Bilkent University graduate in Computer Technology & Information Systems. Most of my work goes into making automation and AI agents usable without code: connecting tools, turning LLM capabilities into reliable product features, and building the product and growth systems around them. Alongside that I have worked across AI development, technical SEO, and product, shipping automation pipelines, production AI chatbots, and growth systems.
 
