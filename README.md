@@ -17,24 +17,6 @@ I build AI agents and no-code automation products, working across workflow autom
 
 I am a Bilkent University graduate in Computer Technology & Information Systems. Most of my work goes into making automation and AI agents usable without code: connecting tools, turning LLM capabilities into reliable product features, and building the product and growth systems around them. Alongside that I have worked across AI development, technical SEO, and product, shipping automation pipelines, production AI chatbots, and growth systems.
 
-## Work
-
-- [Noderan](https://noderan.com): AI-powered no-code automation platform. Connect your tools, build workflows, and deploy AI agents without writing code. The clearest example of what I build.
-- [omerbatutandogan.com](https://omerbatutandogan.com): my site and blog. Astro, entity-first structured data, self-hosted on Cloudflare Workers.
-
-## Focus
-
-- AI agents for business workflows and product operations.
-- No-code automation systems that connect tools and reduce manual work.
-- Technical SEO and entity-first content systems for brands and products.
-- Product development for early-stage software businesses.
-
-## How I work
-
-- I care about speed, but not at the cost of structural quality.
-- I like direct communication, clear ownership, and products that actually ship.
-- I enjoy building systems end-to-end: strategy, product, engineering, growth, and execution.
-
 ## Stack
 
 <div>
